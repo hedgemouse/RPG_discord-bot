@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "discord.js": "^14.17.3",
+    "node-schedule": "^2.1.1"
+  }
+}
